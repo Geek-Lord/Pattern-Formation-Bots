@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.11) (preloaded format=xelatex 2020.11.14)  14 NOV 2020 23:09
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.11) (preloaded format=xelatex 2020.11.14)  15 NOV 2020 14:21
 entering extended mode
 **./seminar.tex
 (seminar.tex
@@ -104,8 +104,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@dimlist=\toks16
 
 (C:\Users\sid19\AppData\Local\Programs\MiKTeX\tex/xelatex/xetexconfig\geometry.
-cfg)) (C:\Users\sid19\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+cfg)) (C:\Users\sid19\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 (C:\Users\sid19\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
 sty
@@ -1275,8 +1275,7 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 pgfplotsthemetol.sty
 Package: pgfplotsthemetol 2017/01/23 PGFplots colors based on Paul Tol's SRON t
 echnical note
-)
-No file seminar.aux.
+) (seminar.aux)
 \openout1 = `seminar.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -1290,6 +1289,7 @@ LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
 8.
+
 (C:\Users\sid19\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -1323,12 +1323,12 @@ LaTeX Font Info:    ... okay on input line 28.
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=14.22636pt
-* \marginparwidth=3.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1354,12 +1354,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 28.
 LaTeX Info: Redefining \pageref on input line 28.
 LaTeX Info: Redefining \nameref on input line 28.
+ (seminar.out) (seminar.out)
 \@outlinefile=\write5
 \openout5 = `seminar.out'.
-
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 28.
@@ -1443,14 +1440,41 @@ Dictionary: translator-theorem-dictionary, Language: English
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.17} (current compat level: 1.9).
 
-No file seminar.nav.
-
-Overfull \vbox (13.79993pt too high) detected at line 30
+(seminar.nav)
+Overfull \vbox (15.63992pt too high) detected at line 30
  []
 
 [1
 
-] [2
+]
+File: alexnet.png Graphic file (type bmp)
+<alexnet.png>
+
+Overfull \vbox (21.79224pt too high) detected at line 54
+ []
+
+[2
+
+] [3
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 86.
+
+
+(C:\Users\sid19\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 86.
+
+
+(C:\Users\sid19\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[4
+
+] [5
+
+] [6
 
 ]
 \tf@nav=\write6
@@ -1463,22 +1487,16 @@ Overfull \vbox (13.79993pt too high) detected at line 30
 \openout8 = `seminar.snm'.
 
  (seminar.aux)
-
-Package rerunfilecheck Warning: File `seminar.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `seminar.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `seminar.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 37359 strings out of 412197
- 906333 string characters out of 2849632
- 1374205 words of memory out of 3000000
- 56211 multiletter control sequences out of 15000+200000
- 535704 words of font info for 62 fonts, out of 3000000 for 9000
+ 37553 strings out of 412197
+ 910529 string characters out of 2849632
+ 1378220 words of memory out of 3000000
+ 56370 multiletter control sequences out of 15000+200000
+ 540389 words of font info for 84 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  125i,13n,130p,1808b,590s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on seminar.pdf (2 pages).
+Output written on seminar.pdf (6 pages).
