@@ -1,0 +1,31 @@
+\babel@toc {english}{}
+\contentsline {chapter}{Acknowledgement}{i}{}%
+\contentsline {chapter}{Abstract}{ii}{}%
+\contentsline {chapter}{List of Figures}{v}{}%
+\contentsline {chapter}{List of Tables}{vi}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {1.1}Introduction to AlexNet}{1}{}%
+\contentsline {section}{\numberline {1.2}Dataset: ImageNet}{2}{}%
+\contentsline {subsection}{\numberline {1.2.1}The ImageNet Large Scale Visual Recognition Challenge (ILSVRC)}{3}{}%
+\contentsline {chapter}{\numberline {2}A Comprehensive Study of Convolutional Neural Networks}{4}{}%
+\contentsline {section}{\numberline {2.1}Need for CNNs in Computer Vision}{4}{}%
+\contentsline {section}{\numberline {2.2}Convolutional Neural Networks}{5}{}%
+\contentsline {subsection}{\numberline {2.2.1}Convolution Operation}{5}{}%
+\contentsline {subsection}{\numberline {2.2.2}Convolution Operation in CNNs}{5}{}%
+\contentsline {subsection}{\numberline {2.2.3}Kernals or Filters}{7}{}%
+\contentsline {subsection}{\numberline {2.2.4}Padding and Stride}{8}{}%
+\contentsline {subsubsection}{Padding}{8}{}%
+\contentsline {subsubsection}{Stride}{9}{}%
+\contentsline {section}{\numberline {2.3}Maxpool layers}{10}{}%
+\contentsline {section}{\numberline {2.4}Activation Functions}{11}{}%
+\contentsline {subsubsection}{Need for activation function}{11}{}%
+\contentsline {chapter}{\numberline {3}AlexNet}{12}{}%
+\contentsline {section}{\numberline {3.1}Architecture}{12}{}%
+\contentsline {section}{\numberline {3.2}Dataset}{13}{}%
+\contentsline {section}{\numberline {3.3}ReLU Nonlinearity}{14}{}%
+\contentsline {section}{\numberline {3.4}Reducing Overfitting}{15}{}%
+\contentsline {subsection}{\numberline {3.4.1}Data Augmentation}{16}{}%
+\contentsline {subsection}{\numberline {3.4.2}Dropout Regularization}{16}{}%
+\contentsline {chapter}{\numberline {4}Results and Observations}{18}{}%
+\contentsline {chapter}{\numberline {5}Conclusion}{21}{}%
+\contentsline {chapter}{Bibliography}{22}{}%

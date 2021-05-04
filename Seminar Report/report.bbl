@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{one}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock {\em Communications of the ACM}, 60(6):84--90, 2017.
+
+\bibitem{two}
+K.~{Zhang}, M.~{Sun}, T.~X. {Han}, X.~{Yuan}, L.~{Guo}, and T.~{Liu}.
+\newblock Residual networks of residual networks: Multilevel residual networks.
+\newblock {\em IEEE Transactions on Circuits and Systems for Video Technology},
+  28(6):1303--1314, 2018.
+
+\bibitem{three}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 770--778, 2016.
+
+\bibitem{four}
+G.~{Wang}, G.~B. {Giannakis}, and J.~{Chen}.
+\newblock Learning relu networks on linearly separable data: Algorithm,
+  optimality, and generalization.
+\newblock {\em IEEE Transactions on Signal Processing}, 67(9):2357--2370, 2019.
+
+\bibitem{five}
+J.~{Deng}, W.~{Dong}, R.~{Socher}, L.~{Li}, {Kai Li}, and {Li Fei-Fei}.
+\newblock Imagenet: A large-scale hierarchical image database.
+\newblock In {\em 2009 IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 248--255, 2009.
+
+\end{thebibliography}

@@ -1,0 +1,16 @@
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces An Example - A 4x4 image (left) and a 3x3 Sobel filter (right)}}{6}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Output of the convolution operation}}{6}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces An image convolved with the vertical Sobel filter.}}{7}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Example of padding.}}{9}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Example of a maxpool layer}}{10}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Architecture of AlexNet}}{12}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Error of a four layer convolutional neural network with ReLU activation.}}{14}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Example of overfitting - Black line fits the data well. Green is overfitting.}}{15}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 96 convolutional kernels of size 11×11×3 learned by the first convolutional layer on the 224×224×3 input images.}}{19}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Eight ILSVRC-2010 test images and the five labels considered most probable by the model.}}{19}{}%
+\addvspace {10\p@ }
